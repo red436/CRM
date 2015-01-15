@@ -1,0 +1,11 @@
+{
+	"dependencies" : {
+	   "grunt" : "0.4.5",
+	   "coffee-script" : "1.8.0",
+	   "less" : "2.2.0",
+	   "minify" : "1.4.8",
+	   "express" : "4.10.7",
+	   "socket.io" : "1.2.1",
+	   "socket.io-mongo" : "0.0.8",
+	}
+}
